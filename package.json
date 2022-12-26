@@ -27,11 +27,13 @@
     ]
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
     "@mantine/core": "^5.9.5",
     "@mantine/dates": "^5.9.5",
     "@mantine/hooks": "^5.9.5",
     "@tessact/trigger-design-system": "^2.0.12",
     "@tessact/trigger-icons": "^1.0.18",
+    "framer-motion": "^8.0.2",
     "lint-staged": "^13.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
