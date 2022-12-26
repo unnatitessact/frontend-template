@@ -27,9 +27,17 @@
     ]
   },
   "dependencies": {
+    "@mantine/core": "^5.9.5",
+    "@mantine/dates": "^5.9.5",
+    "@mantine/hooks": "^5.9.5",
+    "@tessact/trigger-design-system": "^2.0.12",
+    "@tessact/trigger-icons": "^1.0.18",
     "lint-staged": "^13.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.2",
+    "react-router-dom": "^6.6.1",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
